@@ -1,5 +1,9 @@
 ## Thin-walled blade dynamic-parameter prediction dataset
 
+Total dataset download:
+- Baidu Netdisk url：https://pan.baidu.com/s/1cA_88zU1n28m4sANREjbyQ 
+- PassCode：9acl 
+
 ### Input
 
 The input of the network is the blade geometric information tensor converted from the 3D model.   
